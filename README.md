@@ -1,16 +1,19 @@
-# Title
+# Introduction to Configuring Ruby Applications
 
-## Learning Goals
+We have a number of outside resources we leverage in working with our Ruby
+applications. For example, RSpec is a Ruby-specific library, or _gem_. We
+leverage this testing tool for behavior-driven testing. As we start to build out
+more complex applications, it's standard to utilize libraries and other
+conventions for setting up Ruby applications. This will not only save time, but
+will also offer a common template, that becomes familiar to Ruby developers.
 
--SWBAT 1
--SWBAT 2
+We'll cover topics including:
 
-## Introduction
+- What is bundler?
+- What is a gem?
+- How do gems work?
+- What is require?
+- Why do we use require_relative?
 
-## SWBAT 1
-
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+In the next couple of lessons, we'll explain these tools and concepts that have
+been designed for efficiency.
